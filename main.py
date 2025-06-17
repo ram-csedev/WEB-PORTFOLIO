@@ -11,6 +11,6 @@ with col2:
     """
     st.info(content)
 content2='''
-here Below are some of the apps that i have created with the help of python.Feel free to contact me teehee
+here there Below are some of the apps that i have created with the help of python.Feel free to contact me teehee
 '''
 st.write(content2)
